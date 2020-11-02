@@ -328,6 +328,12 @@
             <version>1.7.7</version>
             <type>jar</type>
         </dependency>
+	<! --- ASCII Doctor --->
+	<dependency>
+  	     <groupId>org.asciidoctor</groupId>
+             <artifactId>asciidoctorj</artifactId>
+             <version>1.5.8.1</version>
+         </dependency>
 
         <!-- ************* END spring MVC and related dependencies ************** -->
 
