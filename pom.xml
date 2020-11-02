@@ -328,7 +328,7 @@
             <version>1.7.7</version>
             <type>jar</type>
         </dependency>
-	<!--- ASCII Doctor ----->
+	<!-- ascii doctor -->
 	<dependency>
   	     <groupId>org.asciidoctor</groupId>
              <artifactId>asciidoctorj</artifactId>
