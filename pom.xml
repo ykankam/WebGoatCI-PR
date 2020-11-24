@@ -202,6 +202,11 @@
             <version>7.0.27</version>
             <scope>provided</scope>
         </dependency>
+	<dependency>
+  	     <groupId>com.thoughtworks.xstream</groupId>
+  	     <artifactId>xstream</artifactId>
+  	     <version>1.4.5</version>
+         </dependency>
 
 
         <!-- ************* spring MVC and related dependencies ************** -->
