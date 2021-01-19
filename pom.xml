@@ -348,6 +348,11 @@
 	
 
         <!-- ************* END spring MVC and related dependencies ************** -->
+	  <dependency>
+  		<groupId>com.itextpdf</groupId>
+  		<artifactId>itextpdf</artifactId>
+  		<version>5.5.6</version>
+	  </dependency>
 
     </dependencies>
 </project>
